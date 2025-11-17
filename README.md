@@ -1,0 +1,1 @@
+# wp-quick-user-switching
